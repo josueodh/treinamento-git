@@ -1,2 +1,3 @@
 Treinamento GITs
 Branch Teste
+Conflito
